@@ -1,0 +1,61 @@
+body{
+  margin:0px;
+}
+
+.row{
+  margin:0px;
+  padding:0xp;
+}
+
+.nav-body{
+  background-color:rgba(255,255,255,1);
+  color:red;
+  height:80%;
+  width:100%;
+  padding-left:5%;
+  padding-right:5%;
+}
+
+.rotc{
+  font-size:48px;
+  color:rgb(43, 44, 190);
+  margin-left: 1px;
+  margin-right: 1px;
+}
+
+.header-bg{
+  background-color: rgb(43, 44, 190);
+  height:25%;
+  padding-bottom:10px;
+  padding-top:10px;
+}
+
+.logo{
+  width:100px;
+}
+
+.jumbotron{
+  background-image:url(http://adityamehta.in/wp-content/uploads/2014/08/Sky-Blue-Sky.jpg);
+  background-size:cover;
+  height:80%;
+  margin:0px;
+  }
+
+.content-bg{
+  background-color: rgb(43, 44, 190);
+  height:200px;
+  position:relative;
+}
+
+.content{
+  position:relative;
+  bottom:250px;
+  margin:0px;
+}
+
+.main-bg{
+  background-color:white;
+  color:red;
+  width:100%;
+  height:300px;
+}
